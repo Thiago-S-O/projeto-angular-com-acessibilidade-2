@@ -1,1 +1,9 @@
-<p>modal works!</p>
+<div class="modal-overlay">
+  <div class="modal-content">
+    <h1 class="modal-title">{{config.title}}</h1>
+    <!-- conteúdo do modal, template a ser exibido -->
+    <ng-container *ngTemplateOutlet="config.templateRef"></ng-container>
+
+  </div>
+
+</div>

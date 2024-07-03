@@ -34,3 +34,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 - TemplateRef e seu papel;
 - Injeção de TemplateRef através de variáveis de template.
 
+## segunda parte: Componente modal
+- minimizar dependências de um componente;
+- diretiva *ngTemplateOutlet;
+- ComponentFactoryResolver para criar fábricas de Componentes;
+- O papel de ApplicationRef e HostView de um ComponentRef.
