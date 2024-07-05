@@ -39,3 +39,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 - diretiva *ngTemplateOutlet;
 - ComponentFactoryResolver para criar fábricas de Componentes;
 - O papel de ApplicationRef e HostView de um ComponentRef.
+
+## terceira parte: lapidando o componente
+- estilização padrão de um modal;
+- animações com o módulo Animations;
+- reutilização de animações.
