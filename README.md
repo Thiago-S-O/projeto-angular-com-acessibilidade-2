@@ -44,3 +44,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 - estilização padrão de um modal;
 - animações com o módulo Animations;
 - reutilização de animações.
+
+## quarta parte: acessibilidade
+- Modal e regras da WCAG;
+- Criação de uma diretiva de FocusTrap;
+- Criação de uma diretiva de FocusBack.
